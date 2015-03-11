@@ -1,0 +1,118 @@
+{
+  "locked": false,
+  "version": 1,
+  "projectFileDependencyGroups": {
+    "": [
+      "Newtonsoft.Json >= 6.0.4"
+    ],
+    "DNX,Version=v4.5.1": [],
+    "DNXCore,Version=v5.0": [
+      "System.Console >= 4.0.0-beta-22709"
+    ]
+  },
+  "libraries": {
+    "Newtonsoft.Json/6.0.4": {
+      "sha": "FyQLmEpjsCrEP+znauLDGAi+h6i9YnaMkITlfIoiM4RYyX3nki306bTHsr/0okiIvIc7BJhQTbOAIZVocccFUw==",
+      "contents": {
+        "Newtonsoft.Json.6.0.4.nupkg": {},
+        "Newtonsoft.Json.6.0.4.nupkg.sha512": {},
+        "Newtonsoft.Json.nuspec": {},
+        "lib\\net20\\Newtonsoft.Json.dll": {},
+        "lib\\net20\\Newtonsoft.Json.xml": {},
+        "lib\\net35\\Newtonsoft.Json.dll": {},
+        "lib\\net35\\Newtonsoft.Json.xml": {},
+        "lib\\net40\\Newtonsoft.Json.dll": {},
+        "lib\\net40\\Newtonsoft.Json.xml": {},
+        "lib\\net45\\Newtonsoft.Json.dll": {},
+        "lib\\net45\\Newtonsoft.Json.xml": {},
+        "lib\\netcore45\\Newtonsoft.Json.dll": {},
+        "lib\\netcore45\\Newtonsoft.Json.xml": {},
+        "lib\\portable-net40+sl5+wp80+win8+wpa81\\Newtonsoft.Json.dll": {},
+        "lib\\portable-net40+sl5+wp80+win8+wpa81\\Newtonsoft.Json.xml": {},
+        "lib\\portable-net45+wp80+win8+wpa81\\Newtonsoft.Json.dll": {},
+        "lib\\portable-net45+wp80+win8+wpa81\\Newtonsoft.Json.xml": {},
+        "tools\\install.ps1": {}
+      }
+    },
+    "System.Console/4.0.0-beta-22709": {
+      "sha": "Rsj+HbS/uzqDxPGghUjSZPuc1LYP8CG28IL5UccQ7CDcFbEz0xuYrG3s9jGirhbwPVkvcoEY2aJF1TuSn7j/zA==",
+      "dependencySets": {
+        "*": {
+          "System.IO": "4.0.0-beta-22709",
+          "System.Runtime": "4.0.0-beta-22709"
+        }
+      },
+      "contents": {
+        "License.rtf": {},
+        "System.Console.4.0.0-beta-22709.nupkg": {},
+        "System.Console.4.0.0-beta-22709.nupkg.sha512": {},
+        "System.Console.nuspec": {},
+        "lib\\aspnetcore50\\System.Console.dll": {},
+        "lib\\contract\\System.Console.dll": {},
+        "lib\\net45\\System.Console.dll": {},
+        "lib\\portable-wpa81+wp80+win80+net45+aspnetcore50\\System.Console.dll": {}
+      }
+    },
+    "System.IO/4.0.10-beta-22231": {
+      "sha": "EdJrv2X/XGww0Pa7n62EgTzMowbok2QvFhv9aNnraN06baluqhA//bZ1P15O/8BtSq51jzYqW9vXrTU/Kiz95A==",
+      "dependencySets": {
+        "*": {
+          "System.Runtime": "4.0.0-beta-22231",
+          "System.Text.Encoding": "4.0.0-beta-22231",
+          "System.Threading.Tasks": "4.0.0-beta-22231"
+        }
+      },
+      "contents": {
+        "License.rtf": {},
+        "System.IO.4.0.10-beta-22231.nupkg": {},
+        "System.IO.4.0.10-beta-22231.nupkg.sha512": {},
+        "System.IO.nuspec": {},
+        "lib\\aspnetcore50\\System.IO.dll": {},
+        "lib\\contract\\System.IO.dll": {}
+      }
+    },
+    "System.Runtime/4.0.20-beta-22231": {
+      "sha": "8CFWYP0ldITYQqgfMR6Wn7yjpOzrVzwkfDWHd3PtppILgmvo6rjuJd+KfZTCdacbf1WUbWsp1yuJcTpDYI3RUw==",
+      "contents": {
+        "License.rtf": {},
+        "System.Runtime.4.0.20-beta-22231.nupkg": {},
+        "System.Runtime.4.0.20-beta-22231.nupkg.sha512": {},
+        "System.Runtime.nuspec": {},
+        "lib\\aspnetcore50\\System.Runtime.dll": {},
+        "lib\\contract\\System.Runtime.dll": {}
+      }
+    },
+    "System.Text.Encoding/4.0.10-beta-22231": {
+      "sha": "qHdaFAtqeplZ4VHyxmkJDs38UN3rP9OzayYd3I7sGQD4GRFtnpJF0NGWIUMVqd229z4GrsaVVPvNNwd0mgbr+w==",
+      "dependencySets": {
+        "*": {
+          "System.Runtime": "4.0.0-beta-22231"
+        }
+      },
+      "contents": {
+        "License.rtf": {},
+        "System.Text.Encoding.4.0.10-beta-22231.nupkg": {},
+        "System.Text.Encoding.4.0.10-beta-22231.nupkg.sha512": {},
+        "System.Text.Encoding.nuspec": {},
+        "lib\\aspnetcore50\\System.Text.Encoding.dll": {},
+        "lib\\contract\\System.Text.Encoding.dll": {}
+      }
+    },
+    "System.Threading.Tasks/4.0.10-beta-22231": {
+      "sha": "lPHfw+jq9ENtRDTRgY9gCpiiphQzIi5Oh/Wg/2Jf6xJN+FH+oWWcCozaKvRT8Ovt5iNraDLbGBLoUoQvGTTXog==",
+      "dependencySets": {
+        "*": {
+          "System.Runtime": "4.0.0-beta-22231"
+        }
+      },
+      "contents": {
+        "License.rtf": {},
+        "System.Threading.Tasks.4.0.10-beta-22231.nupkg": {},
+        "System.Threading.Tasks.4.0.10-beta-22231.nupkg.sha512": {},
+        "System.Threading.Tasks.nuspec": {},
+        "lib\\aspnetcore50\\System.Threading.Tasks.dll": {},
+        "lib\\contract\\System.Threading.Tasks.dll": {}
+      }
+    }
+  }
+}
